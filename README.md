@@ -1,7 +1,13 @@
 ## Hi there I`m 👋
+
 <div id="header" align="center">
   <img src="./headgit.png" width="1000"/>
 </div>
+
+## About me
+
+* 💻 Currently studying front-end at Noroff
+* ✂ Working part time as a hairdresser
 
 
 ## Languages
