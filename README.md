@@ -1,20 +1,7 @@
-### Hi there 👋
-
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
+## Hi there I`m 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="600"/>
+  <img src="./headgit.png" width="1000"/>
 </div>
- -->
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/pQkgcbJTrvg1B3hJXv/giphy.gif" width="500"/>
-</div> -->
-<!-- 
-<a href="https://www.linkedin.com/in/stine-nygren/" >
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" width="100"/>
-</a> -->
 
 
 ## Languages
@@ -26,6 +13,14 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StineNygren&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact
+
+<a href="https://www.linkedin.com/in/stine-nygren/" >
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" width="100"/>
+</a> 
+
+
 
 
 
