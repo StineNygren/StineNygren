@@ -1,7 +1,5 @@
 ## Hi there👋
 
-## About me
-
 * 💻 I`m a Frontend Developer
 * ✂ I`m working part time as a hairdresser
 
