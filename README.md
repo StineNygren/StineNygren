@@ -1,13 +1,9 @@
-## Hi there I`m 👋
-
-<div id="header" align="center">
-  <img src="./headgit.png" width="1000"/>
-</div>
+## Hi there👋
 
 ## About me
 
-* 💻 Currently studying front-end at Noroff
-* ✂ Working part time as a hairdresser
+* 💻 I`m a Frontend Developer
+* ✂ I`m working part time as a hairdresser
 
 
 ## Languages
@@ -16,6 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StineNygren&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,13 +21,6 @@
 
 https://joyful-sunflower-9cb8d4.netlify.app/
 
-### Project links
-
-https://vermillion-marshmallow-256c0b.netlify.app/index.html
-
-https://stupendous-stroopwafel-8bf13b.netlify.app/pages/exhibition.html
-
-https://glittering-jelly-7e2d94.netlify.app/
 
 ## Contact
 
